@@ -1,7 +1,7 @@
 /*****************************************************************************************/
-/*                 AUTHOR :  REFAAT HASSAN MAHMOUD                                       */
-/*                 DATA   :  3/9/2023                                                    */
-/*                 TITLE  :  DECLEARATION OF NEW TYPES                                  */
+/*                 AUTHOR :  AYA IBRAHIM MEGHAWRY                                       */
+/*                 DATA   :  1/12/2023                                                  */
+/*                 TITLE  : DECLEARATION OF NEW TYPES                                           */
 /*****************************************************************************************/
 #ifndef   TYPES_H_
 #define   TYPES_H_
